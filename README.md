@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![](http://img.youtube.com/vi/EGyfdtW5zn0/0.jpg)](http://www.youtube.com/watch?v=EGyfdtW5zn0 "")
+
 <!--
 **Mrucznik/Mrucznik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
